@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learn Sign Language</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        section {
+            margin-bottom: 40px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .content {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        img {
+            max-width: 100%; /* Ensure images fit within the container */
+            height: auto;
+            display: block;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Learn Sign Language</h1>
+    </header>
+
+    <main>
+        <section id="asl-alphabet">
+            <h2>ASL Alphabet</h2>
+            <div class="content">
+                <p>The ASL alphabet consists of hand signs for each letter of the English alphabet. Here’s a brief overview:</p>
+                <img src="American_Sign_Language_Alphabet.gif">
+<p>Image: <strong>American Sign Language Alphabet.gif</strong></p>
+<p>Image by <a href="https://commons.wikimedia.org/wiki/User:Jazz_Davis">Jazz Davis</a> from <a href="https://commons.wikimedia.org/">Wikimedia Commons</a>, licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</p>
+
+
+                <ul>
+                    <li><strong>A:</strong> Make a fist with your thumb alongside your fingers.</li>
+                    <li><strong>B:</strong> Extend your fingers straight up while keeping your thumb folded against your palm.</li>
+                    <li><strong>C:</strong> Form a "C" shape with your fingers and thumb.</li>
+                    <li><strong>D:</strong> Extend your index finger while keeping the other fingers folded.</li>
+                    <li><strong>E:</strong> Curl your fingers to touch the tips of your thumb</li>
+                    <li><strong>F:</strong> Form a circle with your thumb and index finger while keeping the other fingers extended.</li>
+                    <li><strong>G:</strong> Extend your index finger and thumb while keeping the other fingers folded.</li>
+                    <li><strong>H:</strong> Extend your index and middle fingers while keeping the other fingers folded.</li>
+                    <li><strong>I:</strong> Extend your pinkie finger while keeping the other fingers folded.</li>
+                    <li><strong>J:</strong> Trace the shape of the letter "J" in the air with your pinkie finger.</li>
+                    <li><strong>K:</strong> Extend your index and middle fingers while placing your thumb between them.</li>
+                    <li><strong>L:</strong> Form an "L" shape with your index finger and thumb.</li>
+                    <li><strong>M:</strong> Fold your thumb over your fingers and extend your fingers downward.</li>
+                    <li><strong>N:</strong> Fold your thumb over your fingers, leaving your index finger extended.</li>
+                    <li><strong>O:</strong> Form a circle with your fingers and thumb.</li>
+                    <li><strong>P:</strong> Extend your index and middle fingers while keeping your thumb between them.</li>
+                    <li><strong>Q:</strong> Extend your index finger and thumb, and curl them downward.</li>
+                    <li><strong>R:</strong> Cross your index and middle fingers while keeping the other fingers folded.</li>
+                    <li><strong>S:</strong> Make a fist with your thumb placed in front of your fingers.</li>
+                    <li><strong>T:</strong> Extend your thumb while keeping your other fingers folded.</li>
+                    <li><strong>U:</strong> Extend your index and middle fingers while keeping the other fingers folded.</li>
+                    <li><strong>V:</strong> Extend your index and middle fingers while forming a "V" shape.</li>
+                    <li><strong>W:</strong> Extend your index, middle, and ring fingers while keeping the other fingers folded.</li>
+                    <li><strong>X:</strong> Form a hook shape with your index finger.</li>
+                    <li><strong>Y:</strong> Extend your thumb and pinkie while keeping the other fingers folded.</li>
+                    <li><strong>Z:</strong> Trace the shape of the letter "Z" in the air with your index finger.</li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="common-phrases">
+            <h2>Common ASL Phrases</h2>
+            <div class="content">
+                <p>Learning common phrases in ASL will help you communicate effectively. Here are a few essential phrases:</p>
+                <ul>
+                    <li><strong>Hello:</strong> Wave your hand from side to side.</li>
+                    <li><strong>Thank You:</strong> Touch your chin with your fingertips and move your hand away from your face. </li>
+                    <li><strong>Sorry:</strong> Make a fist and move it in a circular motion over your chest.</li>
+                    <li><strong>Please:</strong> Place your open hand on your chest and make a circular motion.</li>
+                    <li><strong>Yes:</strong> Nod your fist up and down.</li>
+                    <li><strong>No:</strong> Move your index and middle fingers together and apart as if saying "no."</li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="practice-resources">
+            <h2>Practice Resources</h2>
+            <div class="content">
+                <p>To improve your ASL skills, consider using these resources:</p>
+                <ul>
+                    <li><a href="https://www.startasl.com/" target="_blank">Start ASL - Online Courses and Resources</a></li>
+                    <li><a href="https://handspeak.com/" target="_blank">Handspeak - ASL Dictionary and Videos</a></li>
+                </ul>
+            </div>
+        </section>
+    </main>
+
+</body>
+</html>
